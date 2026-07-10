@@ -1,17 +1,6 @@
 [README.md](https://github.com/user-attachments/files/24361635/README.md)
 # Olá, eu sou o João Santos! 👋
 
-### Software Developer | TypeScript • JavaScript • Python
-
----
-
-## 💫 Sobre Mim
-- 🚀 Atualmente focado em construir aplicações escaláveis com **Node.js** e **FastAPI**.
-- 🤖 Apaixonado por automação e integração de IA em fluxos de trabalho.
-- ⚡ Curiosidade: Sempre de olho em **Smart Home devices** e automação residencial.
-
----
-
 ## 🚀 Tecnologias e Ferramentas
 
 ### 🌐 Frontend & Backend
@@ -24,18 +13,3 @@
 ### ⚙️ Outros
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 📊 Estatísticas
-Aqui você vê o impacto do meu código:
-
-<p align="center">
-  <img height="180em" src="https://cdn.discordapp.com/attachments/1449790677507637351/1454652863329337517/image.png?ex=6951de8c&is=69508d0c&hm=5a830c9f767f20ac5c4541450d66464d47d7a2b68707e1df0ede50d6ec640a16&" />
-  <img height="180em" src="https://media.discordapp.net/attachments/1449790677507637351/1454653370148061194/image.png?ex=6951df05&is=69508d85&hm=ffb4b138c0bf5d0f24fc83d575bb4463a06a2f24f4ed47d603f80a70deab06ad&=&format=webp&quality=lossless" />
-</p>
-
----
-
-## 📫 Vamos nos conectar?
-[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gxtools.site)
