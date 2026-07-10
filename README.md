@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/24361635/README.md)
-# João Santos
+## João Santos
 ### Offensive Security Engineer · Bug Bounty Hunter · CVE Author
 
 ## 🚀 Tecnologias e Ferramentas
