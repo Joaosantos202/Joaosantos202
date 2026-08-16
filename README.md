@@ -1,5 +1,5 @@
 ## João Santos
-### Offensive Security Engineer · Bug Bounty Hunter 
+### Emprendedor Serial · Computação 
 
 ### 🌐 Frontend & Backend
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
